@@ -1,4 +1,3 @@
 Hello Java
 Add new line
-another libe from user1
-line from user1
+line from user2
