@@ -1,3 +1,4 @@
 Some content
 Add new line
 Add new content secondly
+Line from user2
