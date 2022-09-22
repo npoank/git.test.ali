@@ -3,3 +3,4 @@ Add new line
 Add new content secondly
 Line from user2
 Another line from user2
+Another line user2 -- about rebase
